@@ -107,6 +107,61 @@ The smtp-enum-users.nse script attempts to enumerate the users on a SMTP server 
 
 ## OUTPUT:
 
+## site:example.com
+![L-3 IMG 1](https://github.com/user-attachments/assets/f4a99021-ae78-4296-83eb-ff49575f96c1)
+
+
+## filetype:pdf
+![L-3 IMG 2](https://github.com/user-attachments/assets/3f9d3532-f070-4f93-9037-6e909bc7cc53)
+
+
+## intext:password
+![L-3 IMG 3](https://github.com/user-attachments/assets/5f26a1fb-1df1-440e-8d14-c928acfc1ada)
+
+
+## inurl:admin
+![L-3 IMG 4](https://github.com/user-attachments/assets/9cffb0f7-766e-4dab-a181-200474ebb8ad)
+
+
+## intitle:index of
+![L-3 IMG 5](https://github.com/user-attachments/assets/99da960a-563d-4770-bc18-bc4762e2e1de)
+
+
+## link:example.com
+![L-3 IMG 6](https://github.com/user-attachments/assets/b9dcc481-35c4-4113-ab4b-64db7b84e780)
+
+
+## cache:example.com
+![L-3 IMG 7](https://github.com/user-attachments/assets/e4d61750-1b1e-4994-942e-dcd78251d64e)
+
+
+
+## DNS Enumeration
+
+## DNS Recon
+
+![L-3 C1](https://github.com/user-attachments/assets/d3056223-f673-4d5b-904e-232410e5a45f)
+
+
+## dnsenum
+![L-3 C2](https://github.com/user-attachments/assets/1ed3d864-7d77-4264-a3be-a6d23d96ae31)
+
+
+## smtp-user-enum
+![L-3 C4](https://github.com/user-attachments/assets/e898c1f6-7f58-4ab4-9071-0cc938447738)
+
+
+![L-3 C5](https://github.com/user-attachments/assets/7e32aaf7-3c0e-4162-be36-7abb91ac7800)
+
+
+
+## Telnet for smtp enumeration
+![L-3 C3](https://github.com/user-attachments/assets/8c5fade9-a15a-4089-b6e2-f93870b09c05)
+
+
+## nmap-script smtp-enum-user.nse<hostname>
+![L-3 C6](https://github.com/user-attachments/assets/176c896a-b392-4aa7-bf60-7c239eedb978)
+
 
 ## RESULT:
 The Google hacking keywords and enumeration tools were identified and executed successfully
